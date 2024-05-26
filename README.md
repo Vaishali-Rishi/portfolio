@@ -4,7 +4,7 @@ Data Analyst with a year of hands-on experience as an Intern in data analysis an
 ### Technical Skills:
 - Advanced Excel – Data Analysis, Pivots, Charts, Look ups, Power Query, and Power Pivot.
 - Python – Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Machine Learning, and ETL.
-- SQL – Databases, MySQL, MS SQL Server, Joins, Subqueries, Stored Procedures, CTEs, and Views.
+- SQL – Databases, MySQL, MS SQL Server, Joins, Subqueries, Stored Procedures, CTEs, Views.
 - Power BI & Tableau – Data Modeling, DAX, Visualizations, Dashboards, Drill Downs, and Slicers.
 - Machine Learning: Classification, Regression, Clustering, and Recommender System.
 - Data Analytics: Data Cleansing, EDA,  Data Analysis, Data Visualization, and Presentation.
