@@ -1,11 +1,25 @@
 ## Summary
-Data Analyst with a year of hands-on experience as an Intern in data analysis and data science techniques to solve real-world problems.
+Hey there! 👋 I'm Vaishali, and I love turning raw data into insightful stories and bringing clarity to chaos.
+
+With 1 year of internship experience, I've delved deep into the world of data analysis, working on diverse projects and getting hands-on-experience.
+
+🎓 Lifelong Learner:
+Armed with a Master's in Economics and a knack for statistics, I've honed my skills in tools like Excel, SQL, Python, Power BI, Tableau, and Machine Learning. Learning new things excites me, especially when it means diving deeper into data.
+
+✍️ What I Do:
+I transform complex datasets into clear, actionable insights. Whether it's building dynamic dashboards, running predictive models, or creating compelling data stories, I've got it covered. 
+
+🌟 Strengths:
+Creativity and passion drive me. I excel at making data understandable and visually engaging, ensuring everyone can grasp the insights. My work isn't just about numbers; it's about crafting stories that inspire action.
+
+🌐 Let's Connect:
+I'm looking for exciting opportunities to bring my data analysis skills to new challenges. If you need someone who can turn data into actionable insights and engaging stories, let's connect!
 
 ### Technical Skills:
 - Advanced Excel – Data Analysis, Pivots, Charts, Look ups, Power Query, and Power Pivot.
 - Python – Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Machine Learning, and ETL.
-- SQL – Databases, MySQL, MS SQL Server, Joins, Subqueries, Stored Procedures, CTEs, Views.
-- Power BI & Tableau – Data Modeling, DAX, Visualizations, Dashboards, Drill Downs, and Slicers.
+- SQL – Databases, MySQL, MS SQL Server, Joins, Subqueries, CTEs, Views.
+- Power BI & Tableau – Data Modeling, Visualizations, Dashboards, Drill Downs, and Slicers.
 - Machine Learning: Classification, Regression, Clustering, and Recommender System.
 - Data Analytics: Data Cleansing, EDA,  Data Analysis, Data Visualization, and Presentation.
 
@@ -38,6 +52,8 @@ Tools Used: Microsoft SQL Server, Power BI, Microsoft PowerPoint (Microsoft 365)
 Tools Used: Microsoft Excel, Power BI, PowerPoint
 - Investigated service issues affecting high-value consumers and their impact on performance metrics.
 - Pinpointed bottlenecks and inefficiencies in the supply chain, offering actionable insights for operational efficiency.
+
+  
 
 
 #### 6. Promotional Campaign Analysis- [View Project](https://github.com/Vaishali-Rishi/Promotional_Campaign_Analysis)
